@@ -1,0 +1,19 @@
+sudo apt-get install doxygen
+sudo apt-get install tcllib tklib tcl-dev tk-dev libfreetype-dev libx11-dev libgl1-mesa-dev libfreeimage-dev rapidjson-dev libxmu-dev libxi-dev
+sudo apt-get install libfreeimage3 libfreeimage-dev ffmpeg
+
+
+mkdir /opt/opencascade
+cd /opt/opencascade
+wget https://github.com/grotius-cnc/oce/archive/refs/tags/upstream/V7_5_0beta.tar.gz
+tar -xf V7_5_0beta.tar.gz
+
+cd oce-upstream-V7_5_0beta
+mkdir build
+cd build
+cmake .. -D USE_FREEIMAGE:BOOL=ON
+sudo make -j2
+sudo make install 
+
+# Remove source archive :
+rm -rf /opt/opencascade/V7_5_0beta.tar.gz

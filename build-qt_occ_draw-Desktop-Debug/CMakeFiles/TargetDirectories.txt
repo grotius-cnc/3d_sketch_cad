@@ -1,0 +1,9 @@
+/home/user/cad/build-qt_occ_draw-Desktop-Debug/CMakeFiles/install/strip.dir
+/home/user/cad/build-qt_occ_draw-Desktop-Debug/CMakeFiles/install/local.dir
+/home/user/cad/build-qt_occ_draw-Desktop-Debug/CMakeFiles/install.dir
+/home/user/cad/build-qt_occ_draw-Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/user/cad/build-qt_occ_draw-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/user/cad/build-qt_occ_draw-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/user/cad/build-qt_occ_draw-Desktop-Debug/CMakeFiles/cad.dir
+/home/user/cad/build-qt_occ_draw-Desktop-Debug/CMakeFiles/cad_autogen_timestamp_deps.dir
+/home/user/cad/build-qt_occ_draw-Desktop-Debug/CMakeFiles/cad_autogen.dir

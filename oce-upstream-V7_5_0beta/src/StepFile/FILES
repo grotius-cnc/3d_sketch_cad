@@ -1,0 +1,13 @@
+lex.step.cxx
+recfile.pc
+recfile.ph
+step.tab.cxx
+step.tab.hxx
+StepFile_Read.cxx
+StepFile_Read.hxx
+stepread.cxx
+stepread.ph
+step.lex
+step.yacc
+FlexLexer.h
+location.hh
